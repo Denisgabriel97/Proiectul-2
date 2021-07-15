@@ -1,0 +1,182 @@
+1625690752383	geckodriver	INFO	Listening on 127.0.0.1:54272
+1625690755485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofilerp6XqN"
+1625690756226	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofilerp6XqN\\search.json.mozlz4", (void 0)))
+1625690759745	Marionette	INFO	Listening on port 54280
+1625690759781	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625690765881	Marionette	INFO	Stopped listening on port 54280
+1625692468267	geckodriver	INFO	Listening on 127.0.0.1:54396
+1625692471342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofileQjRsDc"
+1625692472199	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofileQjRsDc\\search.json.mozlz4", (void 0)))
+1625692475651	Marionette	INFO	Listening on port 54404
+1625692476182	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/domwalker23, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3738:24\ndestroy@resource://devtools/client/framework/toolbox.js:3672:10\n_forgetBrowserWindow@resource://devtools/client/framework/devtools-browser.js:702:17\nhandleEvent@resource://devtools/client/framework/devtools-browser.js:723:26\n", "resource://devtools/shared/protocol/Front.js", 103))
+1625693274218	Marionette	INFO	Stopped listening on port 54404
+1625693281822	geckodriver	INFO	Listening on 127.0.0.1:54542
+1625693284870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofileYrd9dr"
+1625693285763	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofileYrd9dr\\search.json.mozlz4", (void 0)))
+1625693289359	Marionette	INFO	Listening on port 54550
+1625693289702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625693619251	Marionette	INFO	Stopped listening on port 54550
+5693521119	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofiledp2vAZ"
+1625693521866	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofiledp2vAZ\\search.json.mozlz4", (void 0)))
+1625693524742	Marionette	INFO	Listening on port 54664
+1625693524851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625693814762	Marionette	INFO	Stopped listening on port 54664
+5693696308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofilej1nLot"
+1625693696908	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofilej1nLot\\search.json.mozlz4", (void 0)))
+1625693699830	Marionette	INFO	Listening on port 54763
+1625693700013	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625693813480	Marionette	INFO	Stopped listening on port 54763
+1625693943082	geckodriver	INFO	Listening on 127.0.0.1:63799
+1625693946127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofileuaEKla"
+1625693946996	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofileuaEKla\\search.json.mozlz4", (void 0)))
+1625693950730	Marionette	INFO	Listening on port 62116
+1625693951052	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625693957658	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625729151932	Marionette	INFO	Stopped listening on port 62116
+ile" "C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofileSY7TYA"
+1625694072809	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofileSY7TYA\\search.json.mozlz4", (void 0)))
+1625694076291	Marionette	INFO	Listening on port 53435
+1625694076326	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625729150943	Marionette	INFO	Stopped listening on port 53435
+ile" "C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofileBHUYPL"
+1625694249866	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofileBHUYPL\\search.json.mozlz4", (void 0)))
+1625694253150	Marionette	INFO	Listening on port 64661
+1625694253443	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625694277786	Marionette	INFO	Stopped listening on port 64661
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625770947203	geckodriver	INFO	Listening on 127.0.0.1:59985
+1625770950309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofileIrlrqw"
+1625770951481	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofileIrlrqw\\search.json.mozlz4", (void 0)))
+1625770955720	Marionette	INFO	Listening on port 59993
+1625770956217	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request http://fonts.googleapis.com/css?family=Open+Sans:300,600&subset=latin,latin-ext without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request http://fonts.googleapis.com/css?family=Open+Sans:300,600&subset=latin,latin-ext without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request http://fonts.googleapis.com/css?family=Open+Sans:300,600&subset=latin,latin-ext without a browsingContextID set
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/domwalker23, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3738:24\ndestroy@resource://devtools/client/framework/toolbox.js:3672:10\ncloseToolbox@resource://devtools/client/framework/toolbox.js:3648:16\nonClick@resource://devtools/client/framework/components/ToolboxToolbar.js:456:26\ninvokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10\ninvokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29\ninvokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25\nexecuteDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42\nexecuteDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20\nexecuteDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29\nexecuteDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10\nforEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:444:8\nrunEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21\nrunExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19\nhandleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30\nbatchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12\nbatchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12\ndispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19\ninteractiveUpdates$1/<@resource://devtools/client/shared/vendor/react-dom.js:15803:14\nunstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12\ninteractiveUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15802:12\ninteractiveUpdates@resource://devtools/client/shared/vendor/react-dom.js:1901:10\ndispatchInteractiveEvent@resource://devtools/client/shared/vendor/react-dom.js:4328:21\n", "resource://devtools/shared/protocol/Front.js", 103))
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request http://fonts.googleapis.com/css?family=Open+Sans:300,600&subset=latin,latin-ext without a browsingContextID set
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn1.child4/domwalker23, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3738:24\ndestroy@resource://devtools/client/framework/toolbox.js:3672:10\ncloseToolbox@resource://devtools/client/framework/toolbox.js:3648:16\nonClick@resource://devtools/client/framework/components/ToolboxToolbar.js:456:26\ninvokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10\ninvokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29\ninvokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25\nexecuteDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42\nexecuteDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20\nexecuteDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29\nexecuteDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10\nforEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:444:8\nrunEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21\nrunExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19\nhandleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30\nbatchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12\nbatchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12\ndispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19\ninteractiveUpdates$1/<@resource://devtools/client/shared/vendor/react-dom.js:15803:14\nunstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12\ninteractiveUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15802:12\ninteractiveUpdates@resource://devtools/client/shared/vendor/react-dom.js:1901:10\ndispatchInteractiveEvent@resource://devtools/client/shared/vendor/react-dom.js:4328:21\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://automationpractice.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 126: TypeError: gRecipeManager is null
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request http://fonts.googleapis.com/css?family=Open+Sans:300,600&subset=latin,latin-ext without a browsingContextID set
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request http://fonts.googleapis.com/css?family=Open+Sans:300,600&subset=latin,latin-ext without a browsingContextID set
+1625775982074	Marionette	INFO	Stopped listening on port 59993
+1625784554812	geckodriver	INFO	Listening on 127.0.0.1:58959
+1625784557937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofile11eHvP"
+1625784559201	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofile11eHvP\\search.json.mozlz4", (void 0)))
+1625784563099	Marionette	INFO	Listening on port 58967
+1625784563318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625784808020	Marionette	INFO	Stopped listening on port 58967
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofile6Kfd7F"
+1625784631431	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofile6Kfd7F\\search.json.mozlz4", (void 0)))
+1625784634415	Marionette	INFO	Listening on port 59046
+1625784634637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625784643635	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request http://fonts.googleapis.com/css?family=Open+Sans:300,600&subset=latin,latin-ext without a browsingContextID set
+1625784807037	Marionette	INFO	Stopped listening on port 59046
+5784757374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofileV9aoII"
+1625784758461	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofileV9aoII\\search.json.mozlz4", (void 0)))
+1625784761696	Marionette	INFO	Listening on port 59129
+1625784762216	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625786966602	Marionette	INFO	Stopped listening on port 59129
+5786497614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofileK4gjcG"
+1625786498691	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofileK4gjcG\\search.json.mozlz4", (void 0)))
+1625786501688	Marionette	INFO	Listening on port 59275
+1625786501852	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625786523021	Marionette	INFO	Stopped listening on port 59275
+1625786909571	geckodriver	INFO	Listening on 127.0.0.1:59388
+1625786912705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofileHBIRk3"
+1625786913983	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofileHBIRk3\\search.json.mozlz4", (void 0)))
+1625786917836	Marionette	INFO	Listening on port 59396
+1625786918086	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625786969793	Marionette	INFO	Stopped listening on port 59396
+1625786990918	geckodriver	INFO	Listening on 127.0.0.1:59472
+1625786993992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofilewCyJHA"
+1625786994949	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofilewCyJHA\\search.json.mozlz4", (void 0)))
+1625786997899	Marionette	INFO	Listening on port 59480
+1625786998196	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request http://fonts.googleapis.com/css?family=Open+Sans:300,600&subset=latin,latin-ext without a browsingContextID set
+1625787277115	Marionette	INFO	Stopped listening on port 59480
+5787231298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofilehDLFpx"
+1625787232147	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofilehDLFpx\\search.json.mozlz4", (void 0)))
+1625787235504	Marionette	INFO	Listening on port 59564
+1625787235652	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request http://fonts.googleapis.com/css?family=Open+Sans:300,600&subset=latin,latin-ext without a browsingContextID set
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/domwalker23, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3738:24\ndestroy@resource://devtools/client/framework/toolbox.js:3672:10\n_forgetBrowserWindow@resource://devtools/client/framework/devtools-browser.js:702:17\nhandleEvent@resource://devtools/client/framework/devtools-browser.js:723:26\n", "resource://devtools/shared/protocol/Front.js", 103))
+1625789158878	Marionette	INFO	Stopped listening on port 59564
+"get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofileY1TQSN\\search.json.mozlz4", (void 0)))
+1625787639363	Marionette	INFO	Listening on port 59739
+1625787639640	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 103: Error: Connection closed, pending request to server0.conn0.child4/domnode142, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:93:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+schedulePromise@resource://gre/modules/Promise-backend.js:809:12
+completePromise@resource://gre/modules/Promise-backend.js:741:12
+
+1625789159431	Marionette	INFO	Stopped listening on port 59739
+1625789324074	geckodriver	INFO	Listening on 127.0.0.1:53151
+1625789327161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofileNAyadE"
+1625789328347	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofileNAyadE\\search.json.mozlz4", (void 0)))
+1625789339358	Marionette	INFO	Listening on port 53159
+1625789339520	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625799317872	Marionette	INFO	Stopped listening on port 53159
+ile" "C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofiler06NYj"
+1625789407245	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Denis\\AppData\\Local\\Temp\\rust_mozprofiler06NYj\\search.json.mozlz4", (void 0)))
+1625789410938	Marionette	INFO	Listening on port 53246
+1625789410986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625789525591	Marionette	INFO	Stopped listening on port 53246
