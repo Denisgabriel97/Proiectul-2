@@ -130,7 +130,7 @@ time.sleep(1)
 
 confirm_order = driver.find_element(By.XPATH, "//button[@class='button btn btn-default button-medium']")
 confirm_order.click()
-print("Your order on My Store is complete.")
+
 time.sleep(5)
 
 
