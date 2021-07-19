@@ -124,7 +124,7 @@ time.sleep(2)
 
 confirm_order = driver.find_element(By.ID, "button-confirm")
 driver.execute_script("arguments[0].click()", confirm_order)
-print("Your order has been placed!")
+
 time.sleep(3)
 
 driver.close()
