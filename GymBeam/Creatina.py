@@ -67,7 +67,7 @@ class Creatina(object):
 
 supliment = Creatina("https://www.gymbeam.ro/")
 supliment.autentificare()
-supliment.input_username_password('denisgabriel9705@gmail.com','Testare999')
+supliment.input_username_password('denisgabriel9705@gmail.com','Testing999')
 time.sleep(2)
 supliment.conectare()
 time.sleep(5)
