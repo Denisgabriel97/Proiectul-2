@@ -31,7 +31,7 @@ class Login(object):
 lgn = Login("https://www.gymbeam.ro/")
 lgn.autentificare()
 time.sleep(2)
-lgn.input_username_password('denisgabriel9705@gmail.com', 'Testare999')
+lgn.input_username_password('denisgabriel9705@gmail.com', 'Testing999')
 time.sleep(2)
 lgn.conectare()
 time.sleep(2)
